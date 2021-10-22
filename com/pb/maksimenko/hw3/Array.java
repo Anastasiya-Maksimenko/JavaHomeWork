@@ -1,4 +1,4 @@
-package com.pb.maksimenko.hw3;
+
 
 import java.util.Scanner;
 public class Array {
